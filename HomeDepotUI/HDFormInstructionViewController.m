@@ -50,7 +50,7 @@ typedef enum {
       [UIColor whiteColor],
       NSForegroundColorAttributeName,
       nil]];
-    
+    self.applyButton.enabled = NO;
     loadImageCount = 0;
     //self.userImages = [[UserImages alloc] init];
     self.userImages =[UserImages getInstance];
