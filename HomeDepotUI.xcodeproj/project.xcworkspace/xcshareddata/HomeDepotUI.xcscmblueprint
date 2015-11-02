@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "49b071fc-e7e1-4c83-af3b-e081ba266ac2++7004",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "49b071fc-e7e1-4c83-af3b-e081ba266ac2++7004" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "49b071fc-e7e1-4c83-af3b-e081ba266ac2++7004" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D76C82D8-82C1-47A3-94D8-43922D10F99B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "49b071fc-e7e1-4c83-af3b-e081ba266ac2++7004" : "DemoProjects"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HomeDepotUI",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HomeDepotUI\/HomeDepotUI.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/subversion.assembla.com\/svn\/training-rvs",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "49b071fc-e7e1-4c83-af3b-e081ba266ac2++7004"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D76C82D8-82C1-47A3-94D8-43922D10F99B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HomeDepotUI</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>49b071fc-e7e1-4c83-af3b-e081ba266ac2++7004</key>
+		<string>https://subversion.assembla.com/svn/training-rvs/trunk/sarvesh</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HomeDepotUI SVN/HomeDepotUI.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>49b071fc-e7e1-4c83-af3b-e081ba266ac2++7004</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>49b071fc-e7e1-4c83-af3b-e081ba266ac2++7004</key>
+		<string>https://subversion.assembla.com/svn/training-rvs</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://subversion.assembla.com/svn/training-rvs/trunk/sarvesh/HomeDepotUI%20SVN/HomeDepotUI.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>49b071fc-e7e1-4c83-af3b-e081ba266ac2++7004</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>49b071fc-e7e1-4c83-af3b-e081ba266ac2++7004</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DemoProjects</string>
+		</dict>
+	</array>
+</dict>
+</plist>
